@@ -28,9 +28,9 @@ If you find this useful in your work please consider citing on of them:
 @inproceedings{albanis2021pano3d,
   author       = "Albanis, Georgios and Zioulis, Nikolaos and Drakoulis, Petros and Gkitsas, Vasileios and Strezentsenko, Vladimiros and Alvarez, Federico and Zarpalas, Dimitrios and Daras, Petros",
   title        = "Pano3D: A Holistic Benchmark and a Solid Baseline for \360 Depth Estimation",
-booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-month = {June},
-year = {2021}
+  booktitle    = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  month        = {June},
+  year         = {2021}
 }
 ```
 
@@ -56,11 +56,11 @@ year = {2021}
 
 ```
  @inproceedings{karakottas2019360surface,
-        author      = "Karakottas, Antonis and Zioulis, Nikolaos and Samaras, Stamatis and Ataloglou, Dimitrios and Gkitsas, Vasileios and Zarpalas, Dimitrios and Daras, Petros",
-        title       = "360 Surface Regression with a Hyper-Sphere Loss",
-        booktitle   = "International Conference on 3D Vision (3DV)",
-        month       = "September",
-        year        = "2019"
+  author      = "Karakottas, Antonis and Zioulis, Nikolaos and Samaras, Stamatis and Ataloglou, Dimitrios and Gkitsas, Vasileios and Zarpalas, Dimitrios and Daras, Petros",
+  title       = "360 Surface Regression with a Hyper-Sphere Loss",
+  booktitle   = "International Conference on 3D Vision (3DV)",
+  month       = "September",
+  year        = "2019"
       }
 ```
 
