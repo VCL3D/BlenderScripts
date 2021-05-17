@@ -26,7 +26,7 @@ If you find this useful in your work please consider citing on of them:
 
 ```
 @inproceedings{albanis2021pano3d,
-  author       = "Albanis, Georgios and Zioulis, Nikolaos and Drakoulis, Petros and Gkitsas, Vasileios and Strezentsenko, Vladimiros and Alvarez, Federico and Zarpalas, Dimitrios and Daras, Petros",
+  author       = "Albanis, Georgios and Zioulis, Nikolaos and Drakoulis, Petros and Gkitsas, Vasileios and Sterzentsenko, Vladimiros and Alvarez, Federico and Zarpalas, Dimitrios and Daras, Petros",
   title        = "Pano3D: A Holistic Benchmark and a Solid Baseline for \360 Depth Estimation",
   booktitle    = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
   month        = {June},
